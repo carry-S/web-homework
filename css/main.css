@@ -1,7 +1,7 @@
 .jumbotron {
  background: url(../header.jpg) no-repeat;
  background-size: cover;
- padding:150px 110px;
+ padding:100px 20px;
 }
 .jumbotron h1{
   color: #fff;
@@ -24,7 +24,7 @@
   border-color: #00f9a5!important;
 }
 .page-header{
-	padding: 10px 110px;
+	padding: 10px 20px;
 	border: none;
 	margin: 0 0 40px 0;
 }
@@ -42,7 +42,7 @@
 }
 .row{
 	margin: 0;
-	padding: 0 110px;
+	padding: 0 20px;
 }
 .thumbnail{
 	border: none;
@@ -62,5 +62,5 @@
 	text-align: left;
 	color:#333;
 	font-weight: 510;
-	margin: 0 110px;
+	margin: 0 20px;
 }
