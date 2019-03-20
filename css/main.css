@@ -1,0 +1,66 @@
+.jumbotron {
+ background: url(../header.jpg) no-repeat;
+ background-size: cover;
+ padding:150px 110px;
+}
+.jumbotron h1{
+  color: #fff;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+.jumbotron p{
+  color: #fff;
+  font-size: 25px;
+}
+.btn-danger {
+    color: #000;
+    background-color: #00f9a5;
+    border-color: #00f9a5;
+	box-shadow: 0px 2px 26px 2px rgba(0,244,195,0.39);
+}
+.btn-danger:hover {
+  opacity: .7;
+  background-color: #00f9a5!important;
+  border-color: #00f9a5!important;
+}
+.page-header{
+	padding: 10px 110px;
+	border: none;
+	margin: 0 0 40px 0;
+}
+.page-header h1{
+  color: #333;
+  text-align:  center;
+  font-size: 32px;
+  letter-spacing: 3px;
+}
+.page-header h1 small{
+	color:
+	#333;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+.row{
+	margin: 0;
+	padding: 0 110px;
+}
+.thumbnail{
+	border: none;
+	text-align: center;
+}
+.thumbnail span{
+	font-size: 40px;
+}
+.caption h3{
+	font-size: 32px;
+}
+.caption p{
+	font-size: 17px;
+}
+
+.modal-footer{
+	text-align: left;
+	color:#333;
+	font-weight: 510;
+	margin: 0 110px;
+}
